@@ -36,3 +36,4 @@ This is a test for branch push 32
 This is a test for branch push 33
 This is a test for branch push 34
 This is a test for branch push 35
+This is a test for branch push 36
